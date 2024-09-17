@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <style>
+      @import url("https://fonts.googleapis.com/css?family=Menlo:400,400i,700,700i");
+  </style>
+  <rect width="600" height="600" fill="#000000"/>
+  <rect x="50" y="50" width="240" height="240" rx="10" ry="10" fill="#000000"/>
+  <rect x="310" y="50" width="240" height="240" rx="10" ry="10" fill="#000000"/>
+  <rect x="50" y="310" width="240" height="240" rx="10" ry="10" fill="#000000"/>
+  <text x="310" y="420" font-family="Menlo" font-size="56" font-weight="bold" fill="white">
+    <tspan x="310" dy="0">BLOCKY</tspan>
+    <tspan x="310" dy="56">BULLS</tspan>
+  </text>
+</svg>
