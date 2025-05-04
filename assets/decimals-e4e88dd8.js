@@ -1,1 +1,0 @@
-import{cB as a,cC as e}from"./index-9559b1ab.js";import{cD as t}from"./index-9559b1ab.js";async function i(c){return a(()=>e(c),{cacheKey:`${c.contract.chain.id}:${c.contract.address}:decimals`,cacheTime:Number.POSITIVE_INFINITY})}export{i as decimals,t as isDecimalsSupported};

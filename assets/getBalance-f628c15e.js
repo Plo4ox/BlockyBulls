@@ -1,0 +1,1 @@
+import{r as n,bn as r,a$ as c}from"./index-99ff7de6.js";const s="0x70a08231",d=[{type:"address",name:"_address"}],o=[{type:"uint256"}];async function l(a){return n({contract:a.contract,method:[s,d,o],params:[a.address]})}async function i(a){const[e,t]=await Promise.all([l(a),r(a)]);return{...t,value:e,displayValue:c(e,t.decimals)}}export{i as getBalance};
